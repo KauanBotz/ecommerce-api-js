@@ -1,4 +1,4 @@
-# Projeto de E-commerce da Sandra
+# Projeto de E-commerce da Sandra (Cotemig)
 
 Este é um projeto de e-commerce desenvolvido com a stack MERN (MongoDB, Express, React e Node.js). Ele permite aos usuários visualizar, adicionar e gerenciar produtos, além de realizar compras e pagamentos. O projeto foi dividido em duas partes: Backend e Frontend.
 
